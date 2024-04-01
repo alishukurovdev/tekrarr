@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Pirus\bin\Debug\net6.0\Pirus.exe
+C:\Users\hp\source\repos\Pirus\bin\Debug\net6.0\Pirus.deps.json
+C:\Users\hp\source\repos\Pirus\bin\Debug\net6.0\Pirus.runtimeconfig.json
+C:\Users\hp\source\repos\Pirus\bin\Debug\net6.0\Pirus.dll
+C:\Users\hp\source\repos\Pirus\bin\Debug\net6.0\Pirus.pdb
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.AssemblyInfo.cs
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.dll
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\refint\Pirus.dll
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.pdb
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\Pirus.genruntimeconfig.cache
+C:\Users\hp\source\repos\Pirus\obj\Debug\net6.0\ref\Pirus.dll

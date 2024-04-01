@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|c:\\users\\hp\\onedrive - azerbaijan state technical university\\desktop\\tejrar\\thisandbase\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|solutionrelative:device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|solutionrelative:laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863654C8-74BA-4E47-8D16-94B79F25CA10}|ThisAndBase.csproj|solutionrelative:mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Mobile.cs",
+              "RelativeDocumentMoniker": "Mobile.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Mobile.cs",
+              "RelativeToolTip": "Mobile.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:39:48.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:30:21.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Laptop.cs",
+              "RelativeDocumentMoniker": "Laptop.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Laptop.cs",
+              "RelativeToolTip": "Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:40:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Device.cs",
+              "RelativeDocumentMoniker": "Device.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\ThisAndBase\\Device.cs",
+              "RelativeToolTip": "Device.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T17:30:52.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

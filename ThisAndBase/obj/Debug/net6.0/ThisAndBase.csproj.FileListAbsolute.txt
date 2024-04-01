@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ThisAndBase\bin\Debug\net6.0\ThisAndBase.exe
+C:\Users\hp\source\repos\ThisAndBase\bin\Debug\net6.0\ThisAndBase.deps.json
+C:\Users\hp\source\repos\ThisAndBase\bin\Debug\net6.0\ThisAndBase.runtimeconfig.json
+C:\Users\hp\source\repos\ThisAndBase\bin\Debug\net6.0\ThisAndBase.dll
+C:\Users\hp\source\repos\ThisAndBase\bin\Debug\net6.0\ThisAndBase.pdb
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.AssemblyInfo.cs
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.dll
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\refint\ThisAndBase.dll
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.pdb
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.genruntimeconfig.cache
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ref\ThisAndBase.dll
+C:\Users\hp\source\repos\ThisAndBase\obj\Debug\net6.0\ThisAndBase.sourcelink.json

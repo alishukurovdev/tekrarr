@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|c:\\users\\hp\\onedrive - azerbaijan state technical university\\desktop\\tejrar\\pirus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|solutionrelative:electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C783FF-92AC-4C42-84BF-51122555396E}|Pirus.csproj|solutionrelative:tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Tesla.cs",
+              "RelativeDocumentMoniker": "Tesla.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Tesla.cs",
+              "RelativeToolTip": "Tesla.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:41:11.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "ElectricCar.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\ElectricCar.cs",
+              "RelativeToolTip": "ElectricCar.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:40:30.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:38:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:37:48.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive - Azerbaijan State Technical University\\Desktop\\tejrar\\Pirus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwCIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:36:44.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
